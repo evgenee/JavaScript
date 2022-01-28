@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript code snippets and projectd
+JavaScript code snippets and projects
